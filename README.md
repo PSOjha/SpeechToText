@@ -6,4 +6,7 @@ Learn how to convert Speech to Text or Voice to Text in Android.
     - It will work in Offline mode.
 
 ### Screenshot
-<img src="Screenshot_2021-03-06-13-05-33-773_com.asw.androidspeechtotext.jpg" width="200">
+
+![Speech-to-Text-in-Android](https://user-images.githubusercontent.com/32029236/110199938-d9e1df80-7e0f-11eb-9774-57625909ee97.jpeg)
+
+<img alt="center" src="Screenshot_2021-03-06-13-05-33-773_com.asw.androidspeechtotext.jpg" width="200">
